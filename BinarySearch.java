@@ -1,5 +1,5 @@
 
-// added a comment
+// removed the comment
 
 class BinarySearch{
 
